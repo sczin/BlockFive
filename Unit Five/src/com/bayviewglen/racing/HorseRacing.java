@@ -226,7 +226,6 @@ public class HorseRacing {
         }
 
         System.out.println();
-        scanner.close();
     }
     private static void outputTrack(char divider, String string, int i, int w) {
         String line = "" + i;
